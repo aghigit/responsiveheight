@@ -21,6 +21,8 @@ body{
 
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2.75) {
-    /* CSS */
+@media(max-height:401px){
+    body{
+        height: 800px;
+    }
 }
