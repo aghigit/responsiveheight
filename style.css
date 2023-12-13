@@ -21,8 +21,8 @@ body{
 
 }
 
-@media (max-height: 851px){
+@media (min-height: 851px){
     body{
-        height: 750px;
+        height: 700px;
     }
 }
