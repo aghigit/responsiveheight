@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
-.parent{
+html{
+    height:-webkit-fill-available;
+}
+body{
     height:-webkit-fill-available;
     width: 100%;
     height: 100vh;
