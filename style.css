@@ -21,7 +21,7 @@ body{
 
 }
 
-@media only screen and (min-height: 851px){
+@media (max-height: 851px){
     body{
         height: 750px;
     }
